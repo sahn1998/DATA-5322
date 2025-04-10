@@ -1,0 +1,12 @@
+# Ignore Python virtual environments
+venv/
+.venv/
+
+# Ignore HTML files
+*.html
+
+# Ignore RStudio session files
+*.Rhistory
+*.RData
+
+**/NSDUH_2020.csv
