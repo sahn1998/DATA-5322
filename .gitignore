@@ -11,3 +11,5 @@ venv/
 
 **/NSDUH_2020.csv
 **/NSDUH_2020.txt
+
+*.hdf5
