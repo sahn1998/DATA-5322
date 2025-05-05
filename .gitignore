@@ -13,3 +13,4 @@ venv/
 **/NSDUH_2020.txt
 
 *.hdf5
+**/bird_spectrograms.hdf5
