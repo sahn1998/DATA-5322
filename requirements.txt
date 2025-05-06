@@ -1,5 +1,13 @@
-pandas
-numpy
+ISLP
+keras
 matplotlib
+numpy
+pandas
+pytorch_lightning
 scikit-learn
-xgb
+scipy
+tensorflow
+torch
+torchinfo
+torchmetrics
+torchvision
