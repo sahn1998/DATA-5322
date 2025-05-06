@@ -1,6 +1,8 @@
 # Ignore Python virtual environments
 venv/
 .venv/
+.venv312/
+venv312/
 
 # Ignore HTML files
 *.html
