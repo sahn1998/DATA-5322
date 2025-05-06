@@ -5,16 +5,9 @@ numpy
 pandas
 pytorch_lightning
 scikit-learn
-<<<<<<< HEAD
-xgb
-tensorflow
-keras
-seaborn
-=======
 scipy
 tensorflow
 torch
 torchinfo
 torchmetrics
 torchvision
->>>>>>> 7e80cf75ed62e0d3bfd6553d14f9e5bf4e65b54e
