@@ -3,11 +3,6 @@ keras
 matplotlib
 numpy
 pandas
-pytorch_lightning
 scikit-learn
 scipy
 tensorflow
-torch
-torchinfo
-torchmetrics
-torchvision
