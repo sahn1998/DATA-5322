@@ -1,0 +1,4 @@
+Clip,Top Prediction,Confidence,Top 3 Species,Multi-Bird?
+test1.mp3,rewbla,0.33,"rewbla, houspa, sonspa",Yes
+test2.mp3,rewbla,0.41,"rewbla, amerob, houspa",No
+test3.mp3,rewbla,0.37,"rewbla, bkcchi, whcspa",No
